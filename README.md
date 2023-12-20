@@ -1,4 +1,6 @@
 ### Hi there 👋
+###⚡ Fun fact: I'm taking a bachelor course in VSU
+
 
 <!--
 **QtPunk23/QtPunk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
