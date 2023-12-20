@@ -1,5 +1,5 @@
 ### Hi there 👋
-###⚡ Fun fact: I'm taking a bachelor course in VSU
+⚡ Fun fact: I'm taking a bachelor course in VSU
 
 
 <!--
